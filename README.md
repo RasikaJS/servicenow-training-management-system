@@ -80,5 +80,17 @@ create user no 2 assigned role - as training admin
 
 8)Impersonation-
   A)As training_user:
-open records, but edit and see marks 
+open records, but can't edit and see marks -
+
+<img width="1915" height="885" alt="image" src="https://github.com/user-attachments/assets/787590d3-140a-49d5-8878-8f1e1defe66f" />
+
+B) AS trainer :- open records , can see and  edit marks -
+<img width="1906" height="725" alt="image" src="https://github.com/user-attachments/assets/9f0311ce-28d7-4999-b0cf-a3eeec990c6e" />
+
+9)UI + Filter Customization -
+<img width="1918" height="776" alt="image" src="https://github.com/user-attachments/assets/31631fd1-06ef-48ba-9ca9-6bbd31678702" />
+
+<img width="1577" height="746" alt="image" src="https://github.com/user-attachments/assets/f79b60b7-b8dc-4fd6-8331-d808e71b9a9e" />
+
+
 
